@@ -1,3 +1,5 @@
+![logo](https://github.com/aliomidi1108/aliomidi1108/blob/main/IMG_20240618_141858_820%20(1).jpg)
+
 <h1 align="center">Hi 👋, I'm ali</h1>
 <h3 align="center">A passionate junior frontend developer from iran</h3>
 
